@@ -1,0 +1,59 @@
+
+body{
+  margin-top: -30px;
+  background-color:  rgb(247, 196, 134);
+}
+.h1 {
+    color: blue;  font-size: 40px;background-color:rgb(255, 154, 12);
+}
+.form1{
+    
+  background-color: rgb(247, 196, 134); width: auto;height: 1500px;
+}
+.covid {
+color: red;
+}
+{
+    width: 400px;height: 100px;
+}
+.table{
+     width: 300px; height: 150px; border-color: rgb(211, 24, 24);
+}
+.mp1{
+    color: blue;
+}
+
+.table2  {
+    background-color:rgb(2, 255, 15); width: 300px;height: 90px;
+  margin: 10px 1000px;
+  margin-top: -400px;
+  color: rgb(235, 14, 14);
+  font-size: 23px;
+}
+.tdmp3{
+    font-style: oblique;
+    background-color: rgb(2, 255, 15);
+   
+    
+}
+.td1{
+    font-style: oblique;
+}
+.shadowbox {
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+  }
+  .p1{
+    margin-top: -9px;
+    color: darkblue;
+  }
+  .i1{
+    color: blue;
+  }
+  .h12{
+    margin-top: 150px;
+    border-color: sandybrown;
+  }
+  
